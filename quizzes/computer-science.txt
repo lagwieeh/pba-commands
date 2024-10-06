@@ -1,8 +1,8 @@
 Dijkstra's algorithm is an algorithm for?
-a)
+a) Finding the shortest path from a starting node to all other nodes in a weighted graph.
 
-b)
+b) Solving problems related to network routing.
 
-c)
+c) Optimizing resource allocation in various applications like GPS navigation.
 
-d)
+d) Finding the minimum cost path in graphs with non-negative weights.
